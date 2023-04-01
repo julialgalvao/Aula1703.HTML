@@ -1,0 +1,17 @@
+/* arquivo de estilizaçao da sala = styles */
+
+h1 {
+    color: rgb(125, 8, 58);
+    font-size: 50px;
+    /* tamanho pode mudar */
+}
+
+h2{
+    color: rgb(119, 7, 53);
+    font-size: 30px;
+}
+
+h3{
+    color: brown;
+    font-size: 25px;
+}
